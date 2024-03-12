@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AidenJastrzembski
-- 👀 I’m interested in working on any project, to both expand my portfolio and make some extra money for University.
-- 🌱 I’m currently in college for a CPS Major, and I have extensive knowledge of C#, C++, Java, and Python.
-- 
+- 👀 I am a university student who is working to build a portfolio for work experience.
+- 🌱 I’m currently in college for a CPS and Mathematics Dual Major, and I have extensive knowledge of C#, C++, Java, Python, HTML, you name it!.
+-  
 - 📫 You can reach me at aidenjastrzembski@gmail.com
 
 <!---
