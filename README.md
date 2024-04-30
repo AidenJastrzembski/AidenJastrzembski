@@ -17,3 +17,7 @@ As a university student, I possess comprehensive expertise in Java, JavaScript, 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <br />
+
+#
+
+![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenJastrzembski&show_icons=true&theme=tokyonight)
