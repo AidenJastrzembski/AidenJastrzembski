@@ -1,6 +1,6 @@
 # Aiden Jastrzembski
 
-**Computer Science and Mathematics Dual Major**
+### **Computer Science and Mathematics Dual Major**
 
 As a university student, I possess comprehensive expertise in Java, JavaScript, Python, C, C#, C++, and HTML. My proficiency extends to advanced mathematics and physics, particularly emphasizing Group/Ring Theory, Topology, and Advanced Calculus. All my projects are built from the ground up, starting from a planning phase all the way to the finished product. My passion for mathematics tends to bleed through into my programming style, and I tend to thrive in situations involving numbers and logic. Feel free to contact me at aidenjastrzembski@gmail.com. 
 
