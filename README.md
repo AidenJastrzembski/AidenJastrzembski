@@ -20,4 +20,4 @@ As a university student, I possess comprehensive expertise in Java, JavaScript, 
 
 #
 
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenJastrzembski&show_icons=true&rank_icon=github&theme=tokyonight)
+![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenJastrzembski&show_icons=true&rank_icon=github&theme=transparent)
