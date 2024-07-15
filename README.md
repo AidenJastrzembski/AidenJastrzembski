@@ -2,7 +2,7 @@
 
 ### **Computer Science and Mathematics Dual Major**
 
-As a university student, I possess comprehensive expertise in Java, JavaScript, Python, C, C#, C++, and HTML. My proficiency extends to advanced mathematics and physics, particularly emphasizing Group/Ring Theory, Topology, and Advanced Calculus. All my projects are built from the ground up, starting from a planning phase all the way to the finished product. My passion for mathematics tends to bleed through into my programming style, and I tend to thrive in situations involving numbers and logic. Feel free to contact me at aidenjastrzembski@gmail.com. 
+I am currently an intern for Atomic Industries, whilest also Dual Majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on many projects in real world scenarios, seeing my projects implemented in real time. This has included but is not limited to ERP Automation, data analysis, and Internal/External Email Automation systems. In my mathematical career, I have specialized in Group Theory and Topology, with a personal interest in ring theory and Hausdorff Spaces. Feel free to contact me at aidenjastrzembski@gmail.com. 
 
 #
 
