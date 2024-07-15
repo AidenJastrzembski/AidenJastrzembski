@@ -2,7 +2,7 @@
 
 ### **Computer Science and Mathematics Dual Major**
 
-I am currently an intern for Atomic Industries, whilest also Dual Majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on many projects in real world scenarios, seeing my projects implemented in real time. This has included but is not limited to ERP Automation, data analysis, and Internal/External Email Automation systems. In my mathematical career, I have specialized in Group Theory and Topology, with a personal interest in ring theory and Hausdorff Spaces. Feel free to contact me at aidenjastrzembski@gmail.com. 
+I am currently an intern for Atomic Industries, whilest also Dual Majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on many projects in real world scenarios, seeing my projects implemented in real time. This has included but is not limited to ERP Automation, data analysis, and Internal/External Email Automation systems. In my mathematical career, I have specialized in Group Theory and Topology, with a personal interest in Ring Theory and Hausdorff Spaces. Feel free to contact me at aidenjastrzembski@gmail.com. 
 
 #
 
