@@ -2,7 +2,7 @@
 
 ### **Computer Science and Mathematics Dual Major**
 
-I am currently an intern for Atomic Industries, whilest also Dual Majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on many projects in personal as well as real world scenarios. I have extensive experience with front end development, and am extremely strong in React and Typescript. I have worked on internal ERP systems, email systems, and automation for finances. In my mathematical career, I specialized in Group Theory and Topology, with a personal interest in Moving Least Squares. I also love Ring Theory, and Abstract Algebra/Topology as a whole. Feel free to contact me at aidenjastrzembski@gmail.com. 
+I am currently an intern for Atomic Industries, whilest also Dual Majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on many projects in personal as well as real world scenarios. I have extensive experience with front end development, and am extremely strong in React and Typescript. I have worked on internal ERP systems, email systems, and automation for finances. In my mathematical career, I specialized in Group Theory and Topology, with a personal interest in computational mathmatics/geometry. I am hopeful that I will be able to work in R&D for mathematics/physics/software in the future! Feel free to contact me at aidenjastrzembski@gmail.com. 
 
 #
 
