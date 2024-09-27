@@ -25,10 +25,10 @@ I am currently a Software Engineer for Atomic Industries, whilest also Dual Majo
 #
 ### Real World Work Experience
 - #### Software Intern @ Atomic Industries.
-  - Working on automating conversion of data between softwares and programs
+  - Working on automating conversion of data between different softwares
   - Develop Software that parses and reformats data and to help with workflow management
 - #### Junior Software Engineer @ Atomic Industries
-  - Sole Developer for front end for internal ERP System
+  - Sole Developer of front end for internal ERP System
   - Help develop unique ERP data structure for Atomic Industries' specific use case
 #
 ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenJastrzembski&show_icons=true&rank_icon=github)
