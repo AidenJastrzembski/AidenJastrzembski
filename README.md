@@ -67,4 +67,4 @@ I am currently a Software Engineer for Atomic Industries, whilest also Dual Majo
   - Sole Developer of front end for internal ERP System
   - Help develop unique ERP data structure for Atomic Industries' specific use case
 #
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenJastrzembski&show_icons=true&rank_icon=github)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aidenjastrzembski&theme=tokyonight" alt="mystreak"/>
