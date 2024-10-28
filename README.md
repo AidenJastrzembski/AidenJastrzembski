@@ -6,7 +6,7 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
 
 ---
 
-## Languages and Tools
+## Favorite Languages and Tools
 
 <p>
   <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30px" style="padding-right:10px;" />
@@ -14,10 +14,10 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
   <img alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" style="padding-right:10px;" />
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="padding-right:10px;" />
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px" style="padding-right:10px;" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" style="padding-right:10px;" />
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" style="padding-right:10px;" />
-  <img alt="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="30px" style="padding-right:10px;" />
+  <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30px" style="padding-right:10px;" />
   <img alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30px" style="padding-right:10px;" />
+  <img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" style="padding-right:10px;" />
+  <img alt="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="30px" style="padding-right:10px;" />
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" style="padding-right:10px;" />
   <img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="30px" style="padding-right:10px;" />
   <img alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-plain.svg" width="30px" style="padding-right:10px;" />
