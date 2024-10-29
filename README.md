@@ -12,6 +12,7 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
   <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30px" style="padding-right:10px;" />
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30px" style="padding-right:10px;" />
   <img alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" style="padding-right:10px;" />
+  <img alt="Nuxt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="30px" style="padding-right:10px;" />
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="padding-right:10px;" />
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px" style="padding-right:10px;" />
   <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30px" style="padding-right:10px;" />
