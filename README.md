@@ -39,8 +39,5 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
 
 ---
 
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenJastrzembski&show_icons=true&theme=radical)
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenJastrzembski&layout=compact&theme=radical)
-
+![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenJastrzembski&show_icons=true&theme=transparent)
 
