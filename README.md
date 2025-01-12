@@ -37,4 +37,5 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
   - Sole developer of the front end for an internal ERP system
   - Assisted in developing a unique ERP data structure tailored for Atomic Industries
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aidenjastrzembski&theme=tokyonight" alt="mystreak"/>
 
