@@ -17,7 +17,7 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
 
 ---
 
-## Favorite Languages and Tools
+## Top Proficiencies
 <div style="display: inline-block; text-align: center; margin: 8px;">
   <table>
     <!-- Frontend Frameworks & Libraries -->
