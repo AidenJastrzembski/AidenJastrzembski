@@ -4,6 +4,17 @@
 
 I am a Software Engineer at Atomic Industries, while also dual majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on numerous projects in both personal and professional contexts. I have extensive experience with front-end development, and I am highly proficient in React and TypeScript. In mathematics, I specialize in Group Theory and Topology, with a personal interest in computational mathematics and geometry. I hope to work in R&D for mathematics, physics, or software in the future! Feel free to contact me at [aidenjastrzembski@gmail.com](mailto:aidenjastrzembski@gmail.com).
 
+
+### Real World Work Experience
+- **Software Intern @ Atomic Industries**
+  - Worked on automating data conversion between different software
+  - Developed software to parse and reformat data, enhancing workflow management
+
+- **Junior Software Engineer @ Atomic Industries**
+  - Sole developer of the front end for an internal ERP system
+  - Assisted in developing a unique ERP data structure tailored for Atomic Industries
+
+
 ---
 
 ## Favorite Languages and Tools
@@ -27,15 +38,4 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
 > Note: These are my favorite languages and tools, not a full list of languages and tools I can use.
 
 ---
-
-### Real World Work Experience
-- **Software Intern @ Atomic Industries**
-  - Worked on automating data conversion between different software
-  - Developed software to parse and reformat data, enhancing workflow management
-
-- **Junior Software Engineer @ Atomic Industries**
-  - Sole developer of the front end for an internal ERP system
-  - Assisted in developing a unique ERP data structure tailored for Atomic Industries
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidenjastrzembski&theme=tokyonight" alt="mystreak"/>
-
