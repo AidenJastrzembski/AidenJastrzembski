@@ -93,4 +93,3 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
 > Note: These are my favorite languages and tools, not a full list of languages and tools I can use.
 
 ---
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aidenjastrzembski&theme=tokyonight" alt="mystreak"/>
