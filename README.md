@@ -7,12 +7,14 @@ I am a Software Engineer at Atomic Industries, while also dual majoring in Compu
 
 ### Real World Work Experience
 - **Software Intern @ Atomic Industries**
-  - Worked on automating data conversion between different software
+  - Worked on automating data conversion between different softwares
+  - Worked with external companies engineers to develop api endpoints to suit the needs of Atomic Industries
   - Developed software to parse and reformat data, enhancing workflow management
 
 - **Junior Software Engineer @ Atomic Industries**
-  - Sole developer of the front end for an internal ERP system
-  - Assisted in developing a unique ERP data structure tailored for Atomic Industries
+  - Sole developer of the frontend for an internal ERP/MES system
+  - Fullstack development in django/react tech stack
+  - Testing and Quality Assurance of code written by peers
 
 
 ---
