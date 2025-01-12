@@ -17,8 +17,6 @@ I am a Junior Software Engineer at Atomic Industries, while also dual majoring i
   - Testing and Quality Assurance of code written by peers
 
 
----
-
 ## Top Proficiencies
 <div style="display: inline-block; text-align: center; margin: 8px;">
   <table>
@@ -132,5 +130,3 @@ I am a Junior Software Engineer at Atomic Industries, while also dual majoring i
 <br />
 
 > Note: These are my favorite languages and tools, not a full list of languages and tools I am proficient with.
-
----
