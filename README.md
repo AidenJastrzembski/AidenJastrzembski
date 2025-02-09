@@ -2,7 +2,7 @@
 
 ### **Junior Software Engineer at Atomic Industries**
 
-I am a Junior Software Engineer at Atomic Industries, while also dual majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on numerous projects in both personal and professional contexts. I have extensive experience with front-end development, and I am highly proficient in React and TypeScript. In mathematics, I specialize in Group Theory and Topology, with a personal interest in computational mathematics and geometry. I hope to work in R&D for mathematics, physics, or machine learning in the future! Feel free to contact me at [aidenjastrzembski@gmail.com](mailto:aidenjastrzembski@gmail.com).
+I am a Junior Software Engineer at Atomic Industries, while also dual majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on numerous projects in both personal and professional contexts. I have extensive experience with fullstack development, and I am highly proficient in React and TypeScript. In mathematics, I specialize in Group Theory and Topology, with a personal interest in computational mathematics and geometry. I hope to work in R&D for mathematics, physics, or machine learning in the future! Feel free to contact me at [aidenjastrzembski@gmail.com](mailto:aidenjastrzembski@gmail.com).
 
 
 ### Real World Work Experience
