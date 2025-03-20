@@ -14,7 +14,7 @@ I am a Junior Software Engineer at Atomic Industries, while also dual majoring i
 - **Junior Software Engineer @ Atomic Industries**
   - Sole developer of the frontend for an internal ERP/MES system
   - Fullstack development in django/react tech stack
-  - Develop AI Agent for prompt based job creation within ERP System
+  - Develop AI Agent as a solution for internal time waste
 
 
 ## Top Proficiencies
