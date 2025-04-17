@@ -2,23 +2,7 @@
 
 ### **Software Engineer at Atomic Industries**
 
-I am a Software Engineer at Atomic Industries, while also dual majoring in Computer Science and Pure Mathematics. In my computer science career, I have worked on numerous projects in both personal and professional contexts. I have extensive experience with fullstack development, and I am highly proficient in React and TypeScript. In mathematics, I specialize in Group Theory and Topology, with a personal interest in computational mathematics and geometry. I hope to work in R&D for mathematics, physics, or machine learning in the future! Feel free to contact me at [aidenjastrzembski@gmail.com](mailto:aidenjastrzembski@gmail.com).
-
-### Real World Work Experience
-- **Software Engineer @ Atomic Industries**
-  - Fullstack engineering, with key responsibilities within the stack.
-  - Founding Engineer of ERP system.
-  - Develop integrations between software and factory machines
-
-- **Junior Software Engineer @ Atomic Industries**
-  - Sole developer of the frontend for an internal ERP/MES system
-  - Fullstack development in django/react tech stack
-  - Develop AI Agent as a solution for internal time waste
- 
-- **Software Intern @ Atomic Industries**
-  - Worked on automating data conversion between different softwares
-  - Worked with external companies engineers to develop api endpoints to suit the needs of Atomic Industries
-  - Developed software to parse and reformat data, enhancing workflow management
+I am a Software Engineer at Atomic Industries, and have degrees in both Computer Science and Mathematics. In my computer science career, I have worked on numerous projects in both personal and professional contexts. I have extensive experience with fullstack development, and I am highly proficient in React and TypeScript. In mathematics, I specialize in Group Theory and Topology, with a personal interest in computational mathematics and geometry. I hope to work in R&D for mathematics, physics, or machine learning in the future! Feel free to contact me at [aidenjastrzembski@gmail.com](mailto:aidenjastrzembski@gmail.com).
 
 
 ## Top Proficiencies
