@@ -2,7 +2,7 @@
 
 ### **Software Engineer at Atomic Industries**
 
-I am a Software Engineer at Atomic Industries, and have degrees in both Computer Science and Mathematics. In my computer science career, I have worked on numerous projects in both personal and professional contexts. I have extensive experience with fullstack development, and I am highly proficient in React and TypeScript. In mathematics, I specialize in Group Theory and Topology, with a personal interest in computational mathematics and geometry. I hope to work in R&D for mathematics, physics, or machine learning in the future! Feel free to contact me at [aidenjastrzembski@gmail.com](mailto:aidenjastrzembski@gmail.com).
+I am a Software Engineer at Atomic Industries, and have degrees in both Computer Science and Mathematics. In my computer science career, I have worked on numerous projects in both personal and professional contexts. I have extensive experience with fullstack development, and I am highly proficient in React and TypeScript. In mathematics, outside of my academia, I have a personal interest in computational mathematics and geometry. I hope to work in R&D for mathematics, physics, or machine learning in the future! Feel free to contact me at [aidenjastrzembski@gmail.com](mailto:aidenjastrzembski@gmail.com).
 
 
 ## Top Proficiencies
