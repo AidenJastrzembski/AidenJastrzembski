@@ -1,11 +1,6 @@
-# Aiden Jastrzembski
+# Aiden Jastrzembski - **Software Engineer at Atomic Industries**
 
-### **Software Engineer at Atomic Industries**
-
-I am a Software Engineer at Atomic Industries, and have degrees in both Computer Science and Mathematics. In my computer science career, I have worked on numerous projects in both personal and professional contexts. I have extensive experience with fullstack development, and I am highly proficient in React and TypeScript. In mathematics, outside of my academia, I have a personal interest in computational mathematics and geometry. I hope to work in R&D for mathematics, physics, or machine learning in the future! Feel free to contact me at [aidenjastrzembski@gmail.com](mailto:aidenjastrzembski@gmail.com).
-
-
-## Top Proficiencies
+### Top Proficiencies
 <div style="display: inline-block; text-align: center; margin: 8px;">
   <table>
     <!-- Frontend Frameworks & Libraries -->
@@ -29,10 +24,6 @@ I am a Software Engineer at Atomic Industries, and have degrees in both Computer
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt" />
         <br>Nuxt
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-        <br>Flutter
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
@@ -66,10 +57,6 @@ I am a Software Engineer at Atomic Industries, and have degrees in both Computer
         <br>Kotlin
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-        <br>Dart
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" />
         <br>Haskell
       </td>
@@ -87,10 +74,6 @@ I am a Software Engineer at Atomic Industries, and have degrees in both Computer
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
         <br>Google Cloud
-      </td>
-            <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="48" height="48" alt="Keras" />
-        <br>Heroku
       </td>
             <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Azure" />
